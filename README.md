@@ -3,8 +3,9 @@
 This repository contains training and evaluation sources to train in-context few-shot learners
 to utilize concepts in prediction.
 
-Before reproducing the training, note that we make the CoAT-trained models publicly available.
+Before reproducing the training, note that **we make the CoAT-trained models publicly available**.
 If you simply want to reproduce our results, proceed to **Evaluation** section below and pick the model of your interest.
+
 ---
 The training of concept-aware model can be reproduced by running the following scripts.
 
