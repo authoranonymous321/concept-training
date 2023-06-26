@@ -25,7 +25,6 @@ training_arguments = AdaptationArguments(output_dir="train_dir_teabreac+qa_info_
                                          evaluation_strategy="steps",
                                          save_total_limit=6,
                                          bf16=True,
-                                         gradient_checkpointing=True,
                                          stopping_patience=5)
 
 
